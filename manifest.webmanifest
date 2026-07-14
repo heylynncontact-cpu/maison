@@ -1,0 +1,13 @@
+{
+  "name": "Notre maison",
+  "short_name": "Notre maison",
+  "start_url": "/maison/",
+  "scope": "/maison/",
+  "display": "standalone",
+  "background_color": "#F2F4EC",
+  "theme_color": "#8FA57B",
+  "icons": [
+    { "src": "/maison/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/maison/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
